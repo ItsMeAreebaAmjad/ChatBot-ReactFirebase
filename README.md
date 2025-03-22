@@ -11,7 +11,10 @@ A smart chatbot built with **React** and **Firebase Firestore** that answers **O
 
 ## Tech Stack
 - **Frontend**: React, Tailwind CSS  
-- **Backend**: Firebase Firestore (NoSQL Database)  
+- **Backend**: Firebase Firestore (NoSQL Database)
+
+## Screenshots
+![Screenshot1]()
 
 ## Installation
 
