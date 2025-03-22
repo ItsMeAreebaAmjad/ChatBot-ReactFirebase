@@ -17,5 +17,5 @@ A smart chatbot built with **React** and **Firebase Firestore** that answers **O
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/urban-chat.git
+git clone https://github.com/ItsMeAreebaAmjad/ChatBot-ReactFirebase
 cd urban-chat
